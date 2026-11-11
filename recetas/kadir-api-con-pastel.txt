@@ -1,0 +1,13 @@
+# Api con pastel
+
+## Ingredientes
+- Maíz morado
+- Canela y clavo
+- Azúcar
+- Masa para pastel
+- Queso
+
+## Pasos
+1. Hervir el maíz con canela y clavo.
+2. Colar y endulzar.
+3. Freír los pasteles con queso.
