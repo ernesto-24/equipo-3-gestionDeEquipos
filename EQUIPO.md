@@ -2,3 +2,4 @@
 ## Integrantes
 - kadir (rama dev/kadir)
 - mauricio (rama dev/mauricio)
+- tito (rama dev/tito)
