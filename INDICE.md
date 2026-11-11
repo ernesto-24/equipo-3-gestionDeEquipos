@@ -1,3 +1,4 @@
 - huevos revueltos (mauricio)
 - Silpancho (Kadir)
 - Silpancho (Kadir)
+- Sopa de maní (Kadir)
