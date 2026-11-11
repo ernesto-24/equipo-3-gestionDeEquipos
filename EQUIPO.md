@@ -3,3 +3,7 @@
 - kadir (rama dev/kadir)
 - mauricio (rama dev/mauricio)
 - tito (rama dev/tito)
+- rodrigo (rama dev/rodriC)
+
+
+
