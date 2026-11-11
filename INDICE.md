@@ -4,3 +4,4 @@
 - Sopa de maní (Kadir)
 - Api con pastel (Kadir)
 -saltenias de carne (rodrigo)
+- Caldo de kawi (mauricio)
