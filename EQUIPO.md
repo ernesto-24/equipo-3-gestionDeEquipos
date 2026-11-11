@@ -2,3 +2,4 @@
 ## Integrantes
 - kadir (rama dev/kadir)
 - mauricio (rama dev/mauricio)
+- rodrigo (rama dev/rodriC)
