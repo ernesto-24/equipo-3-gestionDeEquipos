@@ -3,7 +3,8 @@
 - Silpancho (Kadir)
 - Sopa de maní (Kadir)
 - Api con pastel (Kadir)
--saltenias de carne (rodrigo)
+- saltenias de carne (rodrigo)
 - Caldo de kawi (mauricio)
 - Pique macho (mauricio)
-
+- agua (rodrigo)
+- pan con mermelada (rodrigo)
